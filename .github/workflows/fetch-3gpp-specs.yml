@@ -188,7 +188,7 @@ jobs:
       # ─────────────────────────────────────────
       - name: Generate urls_specs_for_AI.md
         run: |
-          REPO="ClaireZhang1114/3gpp-specs3"
+          REPO="ClaireZhang1114/3gpp-specs4"
           BRANCH="main"
           BASE_RAW="https://raw.githubusercontent.com/${REPO}/${BRANCH}/specs-md"
 
